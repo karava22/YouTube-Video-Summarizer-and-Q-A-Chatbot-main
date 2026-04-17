@@ -2,7 +2,7 @@
 
 An AI-powered web application built using **Streamlit** that extracts transcripts from YouTube videos, generates concise summaries, and allows users to ask questions based on the video content.
 
----
+
 
 ## 🚀 Features
 
@@ -24,7 +24,7 @@ An AI-powered web application built using **Streamlit** that extracts transcript
   - Built with **Streamlit**  
   - Simple and user-friendly interface  
 
----
+
 
 ## 🧠 Tech Stack
 
@@ -38,7 +38,7 @@ An AI-powered web application built using **Streamlit** that extracts transcript
   - PyTorch
   - YouTube Transcript API
 
----
+
 
 ## 📂 Project Structure
 
@@ -52,7 +52,7 @@ An AI-powered web application built using **Streamlit** that extracts transcript
 
 ````
 
----
+
 
 ## ⚙️ Installation & Setup
 
@@ -62,7 +62,7 @@ git clone https://github.com/karava22/YouTube-Video-Summarizer-and-Q-A-Chatbot-m
 cd YouTube-Video-Summarizer-and-Q-A-Chatbot-main
 ````
 
----
+
 
 ### 2. Create virtual environment
 
@@ -71,7 +71,7 @@ python -m venv .venv
 .venv\Scripts\activate
 ```
 
----
+
 
 ### 3. Install dependencies
 
@@ -79,7 +79,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
----
+
 
 ## ▶️ Run the Application
 
@@ -93,7 +93,7 @@ streamlit run app.py
 python youtube.py
 ```
 
----
+
 
 ## 🌐 Access the App
 
@@ -103,13 +103,13 @@ Open your browser and go to:
 http://localhost:8501
 ```
 
----
+
 
 ## 🚀 Live Demo
 
 Coming Soon
 
----
+
 
 ## 🛠️ How It Works
 
@@ -119,7 +119,7 @@ Coming Soon
 4. FLAN-T5 generates summary
 5. DistilBERT answers user questions
 
----
+
 
 ## ⚠️ Limitations
 
@@ -127,7 +127,7 @@ Coming Soon
 * Long videos may take more processing time
 * Performance depends on system hardware
 
----
+
 
 ## 🔮 Future Improvements
 
@@ -136,7 +136,7 @@ Coming Soon
 * Cloud deployment (Streamlit Cloud / AWS)
 * Integration with advanced LLMs
 
----
+
 
 ## 📌 Conclusion
 
